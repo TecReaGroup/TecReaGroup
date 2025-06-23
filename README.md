@@ -1,4 +1,5 @@
 ![TecReaGroup's Stats](https://github-readme-stats.vercel.app/api?username=TecReaGroup&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![TecReaGroup's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TecReaGroup&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
