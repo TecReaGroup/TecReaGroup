@@ -1,3 +1,5 @@
+<div align="center">
+
 ![TecReaGroup's Stats](https://github-readme-stats.vercel.app/api?username=TecReaGroup&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ![TecReaGroup's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TecReaGroup&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
@@ -12,4 +14,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+
+
+</div>
 
